@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" rx="22" fill="#fff"/>
+  <path d="M170 190H1030" stroke="#d9e5dc" stroke-width="10"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(150 190)"><circle r="66" fill="#245c3a"/><text y="10" font-size="38" fill="#fff">1</text><text y="112" font-size="25" font-weight="700" fill="#173227">Harvest</text><text y="144" font-size="18" fill="#52665b">Pick ripe produce</text></g>
+    <g transform="translate(375 190)"><circle r="66" fill="#4f855c"/><text y="10" font-size="38" fill="#fff">2</text><text y="112" font-size="25" font-weight="700" fill="#173227">Sort</text><text y="144" font-size="18" fill="#52665b">Check quality</text></g>
+    <g transform="translate(600 190)"><circle r="66" fill="#245c3a"/><text y="10" font-size="38" fill="#fff">3</text><text y="112" font-size="25" font-weight="700" fill="#173227">Weigh</text><text y="144" font-size="18" fill="#52665b">Record the harvest</text></g>
+    <g transform="translate(825 190)"><circle r="66" fill="#4f855c"/><text y="10" font-size="38" fill="#fff">4</text><text y="112" font-size="25" font-weight="700" fill="#173227">Pack</text><text y="144" font-size="18" fill="#52665b">Prepare safe boxes</text></g>
+    <g transform="translate(1050 190)"><circle r="66" fill="#245c3a"/><text y="10" font-size="38" fill="#fff">5</text><text y="112" font-size="25" font-weight="700" fill="#173227">Deliver</text><text y="144" font-size="18" fill="#52665b">Share with partners</text></g>
+  </g>
+</svg>
